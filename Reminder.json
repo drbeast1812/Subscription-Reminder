@@ -1,0 +1,13 @@
+
+{
+  "name": "nuvio-custom-message",
+  "version": "1.0.0",
+  "description": "A custom message stream addon for Nuvio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
